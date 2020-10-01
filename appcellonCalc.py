@@ -1,12 +1,13 @@
 from math import *
-
-print('Select Operation :')
-print('ADD')
-print('SUBTRACT')
-print('MULTIPLY')
-print('DIVIDE')
-
-# a: int = input('Enter first value : ')
-# b: int = input('Enter next value : ')
-#
-# print(a * b)
+print("Enter numbers to perform operation")
+n1=int(input("Enter first number")
+n2=int(input("Enter second number")
+print("Displaying all operation")
+print("Addition")
+print(n1+n2)
+pprint("Subtraction")
+print(n1-n2)
+rint("Multipplication")
+print(n1*n2)
+print("Division")
+print(n1/n2)
